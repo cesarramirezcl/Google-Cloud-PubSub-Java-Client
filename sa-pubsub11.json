@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "mallplaza-374521",
+  "private_key_id": "6b6c59981c1068c177e3064e3ab5eb98c0844981",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC2WlqbtroBrENP\nLQA+WjSl9oqJQkRvUuS6gZ2UQ38I/sWUq2eOtIfcUZSinXmX1J/B5RgoHtBZOzl4\n3sBERBwQ30xo2uOQBFWwMQHGRIhzF0kEJ82DXaLi9pi0OdxjMmND9PuiXKU7Vi46\nexjwJ5CHzR+e5NWprgL0ZtVicqfHL5WmvaJAgpjCeUukUoQNjRc1BCkTSFV79wfC\nhFllZzyKEEo5hLQ/AbXpL+sN3X3mphcsDvLStVvnxSFn53FQTdpzb5WDjwtdBnO4\nfBQmt79pvFHbDW20OiXoca4EamXCWx2mAcTj/F7zNB8GZ4/j8LwvaL+azovkBea6\n46wF4dY7AgMBAAECggEANsLhjPuN1mzF9eP8u7zZLLHiHqAw7wGEwOGl0d2HK8te\nyGvE+J0MY8R4D3GdD1SB+Xd0DrBaP0HC26KBOL7/cq2sQ5zgU+KJXRUKhGEWXQG0\nIrRVSkr3XJNTfmQV5BBAsSrD2plZ4Xza+yL2dUBcbfvSsCPmakNgjcbH8/2clvsY\nb5QOaKl2fZ8db6OfPjZRHcuzbK4VKgOeCZ8xvF/hkCWTNsjMfn+T5LMWyMW5dx9R\nC98oTWvbV9MUx1ZM0KqwxfhQEdSRlXZebGFr9A74iX8sMmZHLRKKdKo3Z71pdt9/\nX86fqffYMTYh8cvN/OYTsXtZL9hGt1ry8lp30sj22QKBgQDe7yO/SXE11klU45Fz\nKGTEeqebaQb2ulwU63hNtLIVMIZGGP3K4f2HIYXRg/vD6+G1fhUhW330yEH5p9g9\niQdZwmX0QVzJYsYCIa+Ieay9sKn0Py/ci6bApyV3G3sdZE1bPpuV1viIsxPXj9R9\nbelJaCDTp3uMipcMx75Wwm6e7wKBgQDRZlZJdGIv1AL4ZSRNL9ok3Ld1r/WDOltA\nFpk5XXb96FipPTv8JGt+96Y0SKSF86D8bVAlgy5kR1Kagnsi4dR/4GI5KG7n+nyK\nKdZjTroRBtI3gKXPPRRHmGm6PzPeUFTUOF06gLJhzpEQnJKUpMbvxeAnA8/IqGEz\n3dI53c/9dQKBgC+VEygs4MEA773ypITTxk45b7S4Agh/VlAQwiizvJ7RMJedle3L\ntnU1Ln69kOsMWayHMLNh98xbQdmrfXgE21DJMUGlAczqDCFAV1rlvXzvTBcZtXl5\nRSoxgsmdT/XCBtDG2CZvL7TdpAqKZGwxHW3Rj9AdGz2wBvVvXKzf6wR5AoGAElVt\ndJz2A84CPJFOblukM9oHTgyL6GNxndjcrYMbafuv15F+8QKXTtSL/sPlc7zy+Wbw\nv3gO1cTQ3KpT8afoHRIeR3bczv7FbKthE+zOqbL5MNbYrZ5haitUBnSGLA7IfpQ4\nxWiDNcEKPnQW+WC78j5W89OHm7/yUsI3J83d6gkCgYEAgZpaZV4hlWRGdIE638RM\nZ2BRJJ9568Tcl1c8mJnuwahpjA4yJa1gsYWbjw1fC1c2GMVYQ2bVu23z8xslHSdy\nSxLjL2ehv3D4s8hyTXJkuh4f1ZFzbVY0Hw1m158xxAr6mAfiIZamUgfELeRGgamO\n4+4ourPYnzBr/+OMNAtOURk=\n-----END PRIVATE KEY-----\n",
+  "client_email": "sa-pubsub11@mallplaza-374521.iam.gserviceaccount.com",
+  "client_id": "111324484881768140343",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/sa-pubsub11%40mallplaza-374521.iam.gserviceaccount.com"
+}
